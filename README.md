@@ -1,4 +1,4 @@
-## React-Redux Ecommerce web application
+## React-Redux Ecommerce (Shopping) web application
 
 this is a sample ecommerce web app made using react, redux and react router.
 
